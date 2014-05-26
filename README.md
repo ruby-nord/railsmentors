@@ -4,7 +4,14 @@ Rails Mentors est un projet visant à faciliter l'échange entre développeurs a
 
 Ce dépôt fait suite à un premier meetup dont vous trouverez plus d'informations [ici](http://www.meetup.com/rubynord/events/184397292/) et vise à recenser les mentors et apprentis intéressés par le projet.
 
-Voici la liste actuelle des personnes enregistrées :
+* Mentors
+ * [cveneziani](http://github.com/cveneziani)
+ * [kdisneur](http://github.com/kdisneur)
+ * [tgautier](http://github.com/tgautier)
+ * [cyrill62](http://github.com/cyrill62)
+ * [l0ck3](http://github.com/l0ck3)
 
-* [Mentors](https://github.com/orgs/ruby-nord/teams/mentors)
-* [Apprentis](https://github.com/orgs/ruby-nord/teams/apprentices)
+* Apprentis
+ * [amberflynn](http://github.com/amberflynn)
+ * [cluster](http://github.com/cluster)
+ * [adoptanoob](http://github.com/adoptanoob)
