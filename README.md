@@ -15,3 +15,4 @@ Ce dépôt fait suite à un premier meetup dont vous trouverez plus d'informatio
  * [amberflynn](http://github.com/amberflynn)
  * [cluster](http://github.com/cluster)
  * [adoptanoob](http://github.com/adoptanoob)
+ * [agonist](http://github.com/agonist)
