@@ -1,10 +1,10 @@
-Notes Session 1: intro à Ruby
+#Notes Session 1: intro à Ruby
 
 MRI est un interpreteur ruby. Irb est un interpréteur de Ruby aussi.
 
 Il y a plusieurs implémentations de Ruby. Les plus gros changements de versions sont les versions 1.8.7, 1.9.3 et 2.1.etc. 
 
-Rbenv permet d'installer différentes versions de Ruby (pour pouvoir tester les programmes sur différentes versions). On peut également utiliser Rvem au lieu de Rbenv.
+Rbenv permet d'installer différentes versions de Ruby (pour pouvoir tester les programmes sur différentes versions). On peut également utiliser Rvm au lieu de Rbenv.
 
 Commande pour installer ruby avec Rbenv: Rbenv install version 2.1.2 
 
@@ -14,8 +14,8 @@ Le gestionnaire de library est: rails
 Un bundler = un gem. Toutes les librairies sont des gem (des sortes de plugins). Il faut passer par bundler pour installer les gems.
 
 Commande pour installer Bundler:
-gem install bundler 
-rbenv install et numéro de version à installer
+sudo gem install bundler 
+rbenv install et numéro de version à installer (si un pb de SSL survient, faire : sudo apt-get install libssl-dev)
 rbenv global mettre le même numéro de version
 rbenv rehash
 
@@ -25,7 +25,7 @@ bundle install nom du gem
 bundle exec → cerveau de gemfile
 
 
-Notes Session 2 du 29 juin 2014:
+#Notes Session 2 du 29 juin 2014:
 
 Bundler →  appelle: Ruby Gems → qui installe des gems 
 
